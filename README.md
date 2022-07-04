@@ -103,3 +103,5 @@ This forces CQS to reindex word database for spell checking. Please use it only 
 ```
 This alters the resulted output to a standard text file ('out.txt'). This might be useful when CQS is integrated to larger system.
 
+## Acknowledgments
+This tool uses [CCS](https://github.com/oscarkarnalim/CCS) as the basis of development, [checkstyle](https://checkstyle.sourceforge.io/) for some Java code quality issues, [flake8](https://flake8.pycqa.org/en/latest) for some Python code quality issues, [ANTLR](https://www.antlr.org/) to tokenise given programs, [Google Prettify](https://github.com/google/code-prettify) to display source code, [Tartarus'code](https://tartarus.org/martin/PorterStemmer/java.txt) to stem words, and [Apache Lucene](https://lucene.apache.org/) to identify stop words and detect incorrectly written words. In terms of dictionaries for spelling correction, they are taken from three websites: [American](https://github.com/dwyl/english-words), [British](https://www.curlewcommunications.uk/wordlist.html), and [Indonesian](http://indodic.com/SpellCheckInstall.html).
