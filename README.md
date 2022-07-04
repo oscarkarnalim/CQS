@@ -1,6 +1,6 @@
 # Code Quality Suggester
 
-**Code Quality Suggester** \(CQS\) aims to educate computing students about code quality in programming. It scans Java/Python program code and highlights code quality issues. To avoid over information, only one instance per issue is reported. Students are expected to check their whole program while fixing the issue. For convenience, the suggestion is mapped to an interactive HTML file as shown below. Further details can be seen in [the paper](#) published in IFIP WCCE 2022: World Conference on Computers in Education.
+**Code Quality Suggester** \(CQS\) aims to educate computing students about code quality in programming. It scans Java/Python program code and highlights code quality issues. To avoid over information, only one instance per issue is reported. Students are expected to check their whole program while fixing the issue. For convenience, the suggestion is mapped to an interactive HTML file as shown below. Further details can be seen in [the paper](#) published in IFIP WCCE 2022: World Conference on Computers in Education. The tool is expanded from [CCS](https://github.com/oscarkarnalim/CCS).
 
 <p align="center">
 <img width="80%" src="https://github.com/oscarkarnalim/ccs/blob/main/code_clarity_sample_layout.png?raw=true">
