@@ -9,60 +9,60 @@
 ## Reported code quality issues:
 
 ### Java
-J01 Overly short comment 
-J02 Words in comment not meaningful 
-J03 Misspelled words in comment
-J04 No comment before or after the first line of syntax block
-J05 Overly short identifier
-J06 Words in identifier not meaningful
-J07 Misspelled words in identifier
-J08 Inconsistent naming style for identifier
-J09 Abstract class and prefix ‘abstract’ in class name inconsistently used
-J10 Array declaration: brackets used after variable name
-J11 Inline conditionals
-J12 Too many boolean operators in expression
-J13 Lowercased constant attribute name
-J14 Unexpected declaration order; expected order: static variables, attributes, constructors, other methods
-J15 Empty syntax block
-J16 Empty catch block
-J17 Only one empty line needed as separator
-J18 Empty statement
-J19 Too many statements in method
-J20 Overly long line
-J21 Multiple variable declarations
-J22 Missing braces in branching or looping statements
-J23 Overly deep nested looping
-J24 Overly deep nested branching
-J25 Overly deep nested try-catch
-J26 Too many statements per line
-J27 Non-static attribute access without ‘this’ keyword
-J28 Unnecessarily complex boolean expression (except return)
-J29 Unnecessarily complex boolean return statements
-J30 String comparison with ‘==’
-J31 Too many parentheses
-J32 Unnecessary semicolon
+J01 Overly short comment  
+J02 Words in comment not meaningful  
+J03 Misspelled words in comment  
+J04 No comment before or after the first line of syntax block  
+J05 Overly short identifier  
+J06 Words in identifier not meaningful  
+J07 Misspelled words in identifier  
+J08 Inconsistent naming style for identifier  
+J09 Abstract class and prefix ‘abstract’ in class name inconsistently used  
+J10 Array declaration: brackets used after variable name  
+J11 Inline conditionals  
+J12 Too many boolean operators in expression  
+J13 Lowercased constant attribute name  
+J14 Unexpected declaration order; expected order: static variables, attributes, constructors, other methods  
+J15 Empty syntax block  
+J16 Empty catch block  
+J17 Only one empty line needed as separator  
+J18 Empty statement  
+J19 Too many statements in method  
+J20 Overly long line  
+J21 Multiple variable declarations  
+J22 Missing braces in branching or looping statements  
+J23 Overly deep nested looping  
+J24 Overly deep nested branching  
+J25 Overly deep nested try-catch  
+J26 Too many statements per line  
+J27 Non-static attribute access without ‘this’ keyword  
+J28 Unnecessarily complex boolean expression (except return)  
+J29 Unnecessarily complex boolean return statements  
+J30 String comparison with ‘==’  
+J31 Too many parentheses  
+J32 Unnecessary semicolon  
 
 ### Python
-P01 Overly short comment
-P02 Words in comment not meaningful
-P03 Misspelled words in comment
-P04 No comment before or after the first line of syntax block
-P05 Overly short identifier
-P06 Words in identifier not meaningful
-P07 Misspelled words in identifier
-P08 Inconsistent naming style for identifiers
-P09 Inappropriate indentation
-P10 No space after comment prefix (#)
-P11 Overly long line
-P12 Multiple statements in one line
-P13 Unnecessary semicolon
-P14 Compilation error
-P15 Unused module
-P16 Improper use of ‘break’ or ‘continue’
-P17 Improper use of ‘return’
-P18 Locally undefined identifier
-P19 Duplicate function parameter
-P20 Unused local variable
+P01 Overly short comment  
+P02 Words in comment not meaningful  
+P03 Misspelled words in comment  
+P04 No comment before or after the first line of syntax block  
+P05 Overly short identifier  
+P06 Words in identifier not meaningful  
+P07 Misspelled words in identifier  
+P08 Inconsistent naming style for identifiers  
+P09 Inappropriate indentation  
+P10 No space after comment prefix (#)   
+P11 Overly long line  
+P12 Multiple statements in one line  
+P13 Unnecessary semicolon  
+P14 Compilation error  
+P15 Unused module  
+P16 Improper use of ‘break’ or ‘continue’  
+P17 Improper use of ‘return’  
+P18 Locally undefined identifier  
+P19 Duplicate function parameter  
+P20 Unused local variable  
 
 ## Minimum command
 ```
