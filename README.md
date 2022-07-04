@@ -9,8 +9,8 @@
 ## Reported code quality issues:
 
 ### Java
-J01 Overly short comment
-J02 Words in comment not meaningful
+J01 Overly short comment 
+J02 Words in comment not meaningful 
 J03 Misspelled words in comment
 J04 No comment before or after the first line of syntax block
 J05 Overly short identifier
